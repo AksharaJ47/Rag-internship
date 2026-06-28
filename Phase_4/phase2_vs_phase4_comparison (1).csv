@@ -1,0 +1,2 @@
+Metric,Phase 2 Score,Phase 4 Score,Improvement,Note
+Context Precision,0.8904166666331147,0.9833333333076388,0.09291666667452414,Phase 4 evaluated using valid Context Precision scores. Other values returned NaN due to Groq rate limit.
