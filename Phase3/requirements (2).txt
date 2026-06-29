@@ -1,0 +1,15 @@
+langchain
+chromadb
+pypdf
+langchain-google-genai
+langchain-groq
+langgraph
+langchain-community<0.4.2
+langchain-text-splitters
+google-cloud-aiplatform
+langchain-google-vertexai
+python-dotenv
+ragas
+datasets
+pandas
+chromadb
